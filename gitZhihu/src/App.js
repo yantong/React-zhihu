@@ -1,5 +1,5 @@
 import React, { Component,Fragment} from 'react';
-import './App.css';
+// import './App.css';
 import Login from './page/login';
 import Home from './page/home';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
